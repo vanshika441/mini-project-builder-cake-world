@@ -6,6 +6,141 @@
     margin:0;
     padding:0;
 }
+.top
+{
+    background-color: #4B1D1D;
+    height: 10vh;
+}
+.middle
+{
+    background-color: purple;
+    height: 60vh;
+}
+.bottom
+{
+    background-color: #4B1D1D;
+    height: 30vh;
+}
+.btn
+{
+    background-color: purple;
+    margin: 60px;
+    border-color: white;
+    color: white;
+}
+#buy{
+    background-color: green;
+}
+#candle
+{
+    margin-left: 95px;
+    position: relative;
+    top: 10px;
+    visibility: hidden;
+}
+#layer1{
+    width: 240px;
+    height: 40px;
+    border-radius: 20%;
+    visibility: hidden;
+}
 
-/* Fill your code*/
+#layer2{
+    width: 200px;
+    margin-left: 20px;
+    height: 35px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+
+#layer3{
+    width: 160px;
+    height: 35px;
+    margin-left: 40px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+
+#layer4{
+    width: 120px;
+    margin-left: 60px;
+    height: 35px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+
+#layer5{
+    width: 80px;
+    margin-left: 80px ;
+    height: 35px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+.logo1 
+{
+    max-width: 150px;
+    max-height: 150px;
+    padding: 0px;
+}
+.logo1 p{
+    color: white;
+    font-family: cursive;
+}
+
+.price-list{
+    position: relative;
+    bottom: 280px;
+    left: -60px;
+    text-align: center;
+}
+.price-list li
+{
+    list-style: none;
+    color: white;
+    font-family: cursive;
+}
+.price-list p
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bill-list{
+    position: relative;
+    bottom: 250px;
+    left: 10px;
+    text-align: center;
+}
+.bill-list li
+{
+    list-style: none;
+    color: white;
+    font-family: cursive;
+}
+.bill-list p
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list-l{
+    padding: 30px;
+}
+.list-r
+{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.cake
+{
+    position: relative;
+    bottom: 200px;
+    padding-left: 10px;
+}
+.bill
+{
+    padding-right: 10px;
+}
 
